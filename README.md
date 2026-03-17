@@ -1,6 +1,7 @@
 ## Hi there 👋아무거나
 
 Feature/c 기능 개발 완료
+1
 
 <!--
 **donnyeonglee/donnyeonglee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
